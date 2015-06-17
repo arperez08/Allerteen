@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<behavior id="id421884" class="TweetSheetAction" enabled="true" GSCVersion="0.10.5" PGFVersion="0.19">
+  <attributes>
+    <text id="name">Tweet Sheet</text>
+    <text id="bundleName">TweetSheet.behavior</text>
+    <text id="message" />
+    <boolean id="editable">true</boolean>
+    <text id="image" />
+  </attributes>
+</behavior>

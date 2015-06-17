@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info PGFVersion="0.19" GSCVersion="0.10.5">
+  <DisplayName>Show More Games</DisplayName>
+  <DisplayIndex>0</DisplayIndex>
+  <Type>Pro</Type>
+  <ToolTip>Show more games</ToolTip>
+  <Interface>ShowMoreGamesAction</Interface>
+  <ControllerClass>GSBehaviorViewController</ControllerClass>
+</info>

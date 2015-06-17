@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<behavior id="id321436" class="ShowAdAction" enabled="true" GSCVersion="0.10.5" PGFVersion="0.19">
+  <attributes>
+    <text id="name">Show Ad</text>
+    <text id="bundleName">ShowAdAction.behavior</text>
+    <index id="location">0</index>
+  </attributes>
+</behavior>

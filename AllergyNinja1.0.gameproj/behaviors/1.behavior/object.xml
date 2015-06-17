@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<behavior id="id868390" class="OpenURLAction" enabled="true" GSCVersion="0.10.5" PGFVersion="0.19">
+  <attributes>
+    <text id="name">Open URL</text>
+    <text id="bundleName">OpenURL.behavior</text>
+    <text id="URL" />
+    <boolean id="useExternalBrowser">false</boolean>
+    <index id="protocol">1</index>
+  </attributes>
+</behavior>

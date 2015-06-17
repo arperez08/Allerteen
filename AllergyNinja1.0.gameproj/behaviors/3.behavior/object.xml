@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<behavior id="id549430" class="ShowMoreGamesAction" enabled="true" GSCVersion="0.10.5" PGFVersion="0.19">
+  <attributes>
+    <text id="name">Show More Games</text>
+    <text id="bundleName">ShowMoreGames.behavior</text>
+  </attributes>
+</behavior>
